@@ -1,7 +1,7 @@
 # HelpDesk Pro — Full-Stack Customer Support Platform
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?logo=render)](https://helpdesk-pro-krzg.onrender.com)
-[![CI](https://github.com/Prakash-020/helpdesk-pro/actions/workflows/ci.yml/badge.svg)](https://github.com/Prakash-020/helpdesk-pro/actions)
+[![CI](https://github.com/pushpavallimolleti-web/helpdesk-pro/actions/workflows/ci.yml/badge.svg)](https://github.com/pushpavallimolleti-web/helpdesk-pro/actions)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
@@ -110,7 +110,7 @@ npm run test:e2e  # Playwright (dev servers must be running)
 ## Quickstart
 
 ```bash
-git clone https://github.com/Prakash-020/helpdesk-pro && cd helpdesk-pro
+git clone https://github.com/pushpavallimolleti-web/helpdesk-pro && cd helpdesk-pro
 npm install
 cp .env.example apps/api/.env       # set DATABASE_URL + SESSION_SECRET
 docker compose up -d postgres       # or any Postgres 16
